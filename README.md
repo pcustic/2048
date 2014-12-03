@@ -1,5 +1,5 @@
 # App Start Contest - 2048 game
-[Play the game](pcustic.github.io/2048).
+[Play the game](http://pcustic.github.io/2048).
 
 ASC version of Gabriele Cirulli's [original 2048](http://gabrielecirulli.github.io/2048/). 
 I made it just for fun through [Udacity course](https://www.udacity.com/course/ud248).  
